@@ -6,6 +6,7 @@ Bootstrap code was inserted into this file to handle just a few things [padding,
 ---------------------------IN HTML--------------------------
 
 In the HTML file the calculator base was created with: 
+
     1. The numbers from 0 to 9
     2. the dot
     3. The double zero
@@ -20,6 +21,7 @@ In the HTML file the calculator base was created with:
 ---------------------------IN CSS--------------------------
 
 In the Css file all the css styles were created for: 
+
     1. Calculator shape; 
     2. Shape of the buttons
     3. Hover of the buttons
@@ -46,6 +48,7 @@ in questo file è stato inserito del codice Bootstrap per gestire solo alcune co
 ---------------------------IN HTML--------------------------
 
 Nel file HTML è stata creata la base della calcolatrice con: 
+
     1. I numeri da 0 a 9
     2. il punto
     3. Il doppio zero
@@ -60,6 +63,7 @@ Nel file HTML è stata creata la base della calcolatrice con:
 ---------------------------IN CSS--------------------------
 
 Nel file Css sono state create tutti gli style css per: 
+
     1. Forma della calcolatrice; 
     2. Forma dei bottoni
     3. Hover dei bottoni
