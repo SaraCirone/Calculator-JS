@@ -1,4 +1,5 @@
 --------------------------------ENGLISH--------------------------
+
 Calculator created via HTML, CSS/Bootstrap and Javascript. 
 
 Bootstrap code was inserted into this file to handle just a few things [padding, margins, alignments etc], while customization was done with css. 
@@ -41,6 +42,7 @@ The following functions were created in the JS file:
 
 
 --------------------------------ITALIANO--------------------------
+
 Calcolatrice creata tramite HTML, CSS/Bootstrap e Javascript. 
 
 in questo file è stato inserito del codice Bootstrap per gestire solo alcune cose [padding, margin, allineamenti etc], mentre la personalizzazione è avvenuta tramiete css. 
