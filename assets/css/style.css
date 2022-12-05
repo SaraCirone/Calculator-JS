@@ -1,0 +1,110 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+
+body, html {
+    background-color:  #ecf0f3;
+}
+
+.calcolatrice {
+    background-color: #ecf0f3;
+    border-radius: 20px;
+    box-shadow: inset 5px 5px 12px #fff, 
+                      5px 5px 12px rgba(0, 0, 0, .16); 
+}
+
+#history, #display {
+    text-align: right;
+    font-size: 25px;
+}
+
+.btnNum {
+    font-size: 23px;
+    border: none;
+    box-shadow: inset 5px 5px 12px  rgba(190, 190, 190, 0.1), 
+                      5px 5px 12px rgba(0, 0, 0, 0.30); 
+    border-radius: 100px;
+    width: 48px;
+    height: 48px;
+    margin: 12px;
+    color: darkcyan;
+}
+
+.btnNum:hover {
+    background-color: orange; 
+    color: #fff;
+}
+
+.btnSum {
+    background-color: rgb(194, 94, 94);
+    color: rgb(255, 255, 255);
+}
+
+.btnSum:hover {
+    background-color: rgb(250, 6, 6);
+}
+
+.btnSott {
+    background-color: rgb(117, 194, 94);
+    color: white;
+}
+
+.btnSott:hover {
+    background-color: rgb(75, 163, 24);
+}
+.btnDiv {
+    background-color: rgb(125, 191, 211);
+    color: white;
+}
+
+.btnDiv:hover {
+    background-color: rgb(21, 190, 233);
+
+}
+.btnMol {
+    background-color: rgb(215, 135, 240);
+    color: white;
+}
+
+.btnMol:hover {
+    background-color: rgb(208, 21, 233);
+}
+.btnPerc {
+    background-color: rgb(201, 179, 82);
+    color: white;
+}
+.btnPerc:hover {
+    background-color: rgb(233, 212, 21);
+    color: #000;
+}
+.btnDel {
+    font-size: 18px;
+    width: 125px;
+}
+.btnCalc {
+    font-size: 35px;
+    border: none;
+    box-shadow: inset 5px 5px 12px  rgba(190, 190, 190, 0.1), 
+                      5px 5px 12px rgba(0, 0, 0, 0.20); 
+    border-radius: 100px;
+    width: 280px;
+    height: 48px;
+    margin: 12px;
+    background-color: rgb(243, 169, 141);
+}
+.btnCalc:hover {
+    background-color: rgb(243, 87, 31);
+    color: white;
+}
+.btnDouble, .btnAll {
+    width: 125px;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+a:hover {
+    text-decoration: none;
+    color: white;
+}
